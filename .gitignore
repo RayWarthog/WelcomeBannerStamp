@@ -1,0 +1,5 @@
+venv
+characters/**
+!characters/.gitempty
+output/**
+!output/.gitempty
